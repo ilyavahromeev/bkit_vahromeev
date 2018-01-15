@@ -1,0 +1,6 @@
+C:\Users\m\Documents\GitHub\IU531_bkit\Laba_6.2\Laba_6.2\bin\Debug\Laba_6.2.exe.config
+C:\Users\m\Documents\GitHub\IU531_bkit\Laba_6.2\Laba_6.2\bin\Debug\Laba_6.2.exe
+C:\Users\m\Documents\GitHub\IU531_bkit\Laba_6.2\Laba_6.2\bin\Debug\Laba_6.2.pdb
+C:\Users\m\Documents\GitHub\IU531_bkit\Laba_6.2\Laba_6.2\obj\Debug\Laba_6.2.csprojResolveAssemblyReference.cache
+C:\Users\m\Documents\GitHub\IU531_bkit\Laba_6.2\Laba_6.2\obj\Debug\Laba_6.2.exe
+C:\Users\m\Documents\GitHub\IU531_bkit\Laba_6.2\Laba_6.2\obj\Debug\Laba_6.2.pdb
